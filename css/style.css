@@ -1,7 +1,23 @@
 body {
   color: white;
   background-image: url("http://wallpapers-best.com/uploads/posts/2015-10/7_starry_night.jpg");
+  font-family: eater;
 }
  h1 {
+   color: gold;
+ }
+
+ img {
+   width: 1200px
+ }
+ td > img {
+   width: 400px
+ }
+ a {
+   text-size: 14px;
    color: red;
+ }
+ a:hover {
+   color: maroon;
+   font-weight: bolder;
  }
