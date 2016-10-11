@@ -4,7 +4,8 @@ body {
   background-size: contain;
   background-repeat: repeat-y repeat-x;
   font-family: de-walpergens-pica;
-  padding: 5%
+  padding: 5%;
+  text-align: center;
 }
  h1 {
    color: gold;
@@ -14,7 +15,7 @@ body {
    width: 75%
  }
  a {
-   color: red;
+   color: white;
  }
  a:hover {
    color: maroon;
@@ -31,3 +32,11 @@ td {
    height: 200px;
 
  }
+ div {
+  top:.5%;
+  position:absolute;
+  margin-bottom: 20px;
+  height: 40px;
+  font-size: 24px;
+  text-align: center;
+}
