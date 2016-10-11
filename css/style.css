@@ -2,8 +2,8 @@ body {
   color: white;
   background: url("http://wallpapers-best.com/uploads/posts/2015-10/7_starry_night.jpg");
   background-size: contain;
-  background-repeat: repeat-y;
-  font-family: eater;
+  background-repeat: repeat-y repeat-x;
+  font-family: de-walpergens-pica;
   padding: 5%
 }
  h1 {
@@ -14,7 +14,6 @@ body {
    width: 75%
  }
  a {
-   text-size: 14px;
    color: red;
  }
  a:hover {
